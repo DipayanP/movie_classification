@@ -1,0 +1,9 @@
+{
+	"name": "dpdataenggadf01",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "088f6dc3-d195-4319-9c69-74d77ff9d9f4",
+		"tenantId": "a942eca4-fab4-4ae9-9e7e-8b8128b294f0"
+	}
+}
